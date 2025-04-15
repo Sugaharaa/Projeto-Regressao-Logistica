@@ -1,4 +1,4 @@
-# Projeto de Regressão Logística - Doenças Cardiovasculares 🪀
+# Projeto de Regressão Logística - Doenças Cardiovasculares 
 
 Este projeto tem como objetivo aplicar técnicas de regressão logística para prever a presença de doenças cardiovasculares com base em dados de saúde de pacientes.
 
