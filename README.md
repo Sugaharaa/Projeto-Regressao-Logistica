@@ -46,9 +46,6 @@ Identificar fatores que influenciam o risco de doenças cardiovasculares e const
 ### 🔹 Curva ROC do Modelo
 ![Curva ROC](img/curva_roc.png)
 
-### 🔹 Visualização da Regressão
-![Gráfico Regressão 3](img/graficoregressao3.png)
-![Gráfico Regressão 4](img/graficoregressao4.png)
 
 ---
 
